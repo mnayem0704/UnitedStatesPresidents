@@ -2,4 +2,6 @@
 
 George Washington
 
-John Adams 
+John Adams
+
+Thomas Jefferson 
