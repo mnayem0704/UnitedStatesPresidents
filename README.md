@@ -23,3 +23,7 @@ John Tyler
 James Polk
 
 Zachary Taylor
+
+Theodore Roosevelt
+
+William H Taft
