@@ -23,3 +23,7 @@ John Tyler
 James Polk
 
 Zachary Taylor
+
+Harry S Truman
+
+Dwight Eisenhower
