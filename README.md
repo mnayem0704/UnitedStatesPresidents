@@ -1,3 +1,5 @@
 # UnitedStatesPresidents
 
-George Washington 
+George Washington
+
+John Adams 
