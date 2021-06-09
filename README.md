@@ -23,3 +23,9 @@ John Tyler
 James Polk
 
 Zachary Taylor
+
+James A Garfield
+
+Chester A Arthur
+
+Grover Cleveland
