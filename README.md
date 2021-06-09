@@ -23,3 +23,7 @@ John Tyler
 James Polk
 
 Zachary Taylor
+
+Benjamin Harrison
+
+William Mckinley
